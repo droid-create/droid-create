@@ -59,7 +59,6 @@
 <p>
   <a href="https://linkedin.com/in/sawantdivesh"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:work4divesh@gail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=firefox&logoColor=white" /></a>
 </p>
 
 ---
